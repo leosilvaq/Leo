@@ -11,4 +11,6 @@
 
 Comando pra iniciar `Leo Hub`
 
-[x] Feature 1
+- [x] Feature 1
+- [ ] Feature 1
+- [ ] Feature 1
