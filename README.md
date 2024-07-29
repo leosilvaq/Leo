@@ -38,5 +38,4 @@ Estou no Desenvolvimento Web Full Stack e me dedicando a explorar novas ferramen
 Se você quiser saber mais sobre mim ou se conectar, sinta-se à vontade para me enviar uma mensagem!
 
 [Meu Perfil no LinkedIn](https://www.linkedin.com/in/leonardo-silva-9b3485219/)
-<br>
-[Meu GitHub](https://github.com/leosilvaq)
+
