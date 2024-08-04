@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela HTML/Site</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 2px solid black;
+            text-align: center;
+        }
+
+        .topo {
+            height: 150px;
+        }
+
+        .conteudo {
+            height: 1200px;
+
+        }
+
+        .rodape {
+            height: 100px;
+        }
+
+        .menu {
+            width: 30%;
+            height: 1200px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr class="topo">
+                <th colspan="2">TOPO</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="menu">MENU</td>
+                <td class="conteudo">CONTEÚDO</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr class="rodape">
+                <td colspan="2">RODAPÉ</td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+
+</html>
